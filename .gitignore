@@ -174,3 +174,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+#Added by me not tepmplate
+
+# macOS
+.DS_STORE
