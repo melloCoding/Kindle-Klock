@@ -1,0 +1,9 @@
+{
+    "weather": {
+        "longitude": "[longitude]",
+        "latitude": "[latitude]",
+        "wind-speed-unit": "[ms or mph or kn]",
+        "temperature-unit": "[fahrenheit or celsius]",
+        "precipitation-unit": "[inch or millimeter]"
+    }
+}
