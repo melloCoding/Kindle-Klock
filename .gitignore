@@ -174,3 +174,11 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+#Added by me not tepmplate
+
+# macOS
+.DS_STORE
+.DS_Store
+
+# DONT COMMIT THE USER CONFIG NO DOXXING PLEASE
+kindle-klock-src/bin/userConfig.json

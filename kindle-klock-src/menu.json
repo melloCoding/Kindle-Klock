@@ -1,0 +1,9 @@
+{
+    "name": "Kindle-Klock",
+    "items": [
+        {
+            "name": "Start Klock",
+            "action": "bin/launch.sh"
+        }
+    ]
+}
